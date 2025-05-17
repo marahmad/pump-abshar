@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+15:10:56	245/245	---MCZ	404	error ('Not%20Found')	text/html	date:Fri,%2016%20May%202025%2010:10:57%20GMT	https://pumpabshar.com/robots.txt		(from )
+15:10:56	16299/16299	---M-Z	200	added ('OK')	text/html	etag:%223fab-631d4c4abf1d2-gzip%22	https://pumpabshar.com/	C:/Users/Ahmad/Downloads/Website%20clone/Pump%20Abshar%20Clone/pumpabshar.com/index.html	(from )
